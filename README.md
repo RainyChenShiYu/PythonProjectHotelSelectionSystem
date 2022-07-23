@@ -10,4 +10,4 @@ Developing a hotel selection system by designing questions to solve which can la
 - Created a recommendation structure for hotel rooms based on hotel star rating, business trends, and historical prices to reserve
 highly desirable locations. 
 
-Please read the uploaded file to review codes and process. 
+Please read the uploaded file to review codes and process.   
